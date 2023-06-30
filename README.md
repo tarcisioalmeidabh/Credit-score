@@ -1,1 +1,1 @@
-# Credit-score
+# credit_score
